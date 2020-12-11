@@ -1,0 +1,18 @@
+{
+  "targets": {
+    "login-d0caf": {
+      "hosting": {
+        "app": [
+          "login-d0caf"
+        ]
+      }
+    },
+    "logsr-d7638": {
+      "hosting": {
+        "app": [
+          "logsr-d7638"
+        ]
+      }
+    }
+  }
+}

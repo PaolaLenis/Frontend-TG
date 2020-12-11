@@ -1,0 +1,7 @@
+{
+  "name": "logsr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
